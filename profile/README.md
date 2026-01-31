@@ -2,7 +2,7 @@
 
 Hosted: http://homebrain.pukarsubedi.com
 
-`frontend`, `backend`, and `infra` replicate to `subedi-labs`.
+* `frontend`, `backend`, and `infra` replicate to `subedi-labs`.
 
 
 
